@@ -2,7 +2,7 @@
 可移动、可缩放的ImageView，可简单解决滑动冲突
 
 # 效果图
-<img src='https://upload-images.jianshu.io/upload_images/4774781-363d2d15a578b195.gif?imageMogr2/auto-orient/strip' >
+<img src='https://upload-images.jianshu.io/upload_images/4774781-363d2d15a578b195.gif' >
 
 目前只支持双击放大，不支持双指缩放。
 
